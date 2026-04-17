@@ -98,7 +98,7 @@ Feel free to reach out to me for **collaborations, projects**, or just a **frien
 
 <p align="center">
   Made with ❤️ by 
-  <a href="https://github.com/nahid-hasan-dev" target="_blank">Nahid Hasan</a> |
+  <a href="https://github.com/nahid-hasan-lab" target="_blank">Nahid Hasan</a> |
   Connect with me on 
   <a href="https://www.linkedin.com/in/nahid-hasan-dev/" target="_blank">LinkedIn</a>
 </p>
